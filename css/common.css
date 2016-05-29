@@ -9,3 +9,6 @@ margin: 0;
 nav ul a li {
 list-style: none;
 }
+section ul {
+text-align: left;
+}
