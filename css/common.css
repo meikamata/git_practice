@@ -1,11 +1,27 @@
 body{
 text-align: center;
+margin: 10px auto;
+display: table;
+}
+
+nav {
+background: #e0e0e0;
 }
 
 nav ul {
-margin: 0;
+padding: 0;
 }
 
 nav ul a li {
 list-style: none;
+}
+
+article {
+margin-top: 1em;
+padding: 0 1em
+border: 1px soild #e0e0e0;
+}
+
+section ul {
+text-align: left;
 }
